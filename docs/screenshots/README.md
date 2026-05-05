@@ -7,6 +7,9 @@ This directory contains screenshots documenting all API endpoint tests.
 ### 1. Root Endpoint
 - `01-root-endpoint.png` - API information
 
+- <img width="1763" height="844" alt="01-get-all-users png" src="https://github.com/user-attachments/assets/3ad90d8c-2aa1-4f59-9a0b-78e42e27d88a" />
+
+
 ### 2. Get All Users
 - `02-get-all-users.png` - List of all users
 
