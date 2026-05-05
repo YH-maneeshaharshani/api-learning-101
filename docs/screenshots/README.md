@@ -9,25 +9,36 @@ This directory contains screenshots documenting all API endpoint tests.
 
 ### 2. Get All Users
 - `02-get-all-users.png` - List of all users
+- <img width="1763" height="844" alt="01-get-all-users png" src="https://github.com/user-attachments/assets/9eed4440-78bb-4128-a87f-51e24ac5bb7b" />
+
 
 ### 3. Get User by ID
 - `03-get-user-by-id.png` - Successful user retrieval
 - `04-get-user-404.png` - User not found error
+- <img width="1763" height="844" alt="02-get-single-user png" src="https://github.com/user-attachments/assets/3869c584-62b5-44e1-b082-958731dc0213" />
+
 
 ### 4. Create User
 - `05-create-user-success.png` - Successful user creation (201)
 - `06-create-user-validation-error.png` - Validation error (422)
 - `07-create-user-duplicate-email.png` - Duplicate email error (409)
 - `08-create-user-missing-fields.png` - Missing fields error (400)
+- <img width="1763" height="844" alt="03-post-create-user png" src="https://github.com/user-attachments/assets/395f72b0-63ad-47d1-b1e8-d12a5c71994b" />
+
 
 ### 5. Update User
 - `09-update-user-success.png` - Successful update (200)
 - `10-update-user-not-found.png` - User not found (404)
 - `11-update-user-validation.png` - Validation error (422)
+- <img width="1763" height="844" alt="04-put-update-user png" src="https://github.com/user-attachments/assets/3cf2b8e8-466f-4b85-91cb-8ef71197a6f4" />
+
 
 ### 6. Delete User
 - `12-delete-user-success.png` - Successful deletion (200)
 - `13-delete-user-not-found.png` - User not found (404)
+- <img width="1763" height="844" alt="05-delete-user png" src="https://github.com/user-attachments/assets/76cd2651-0707-4835-b5c0-614ac7c8ae67" />
+
+- 
 
 ## How to Add Screenshots
 
