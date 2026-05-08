@@ -258,6 +258,64 @@ Your submission will be reviewed and you'll receive contributor badges!
 5. Receive your contributor badge upon approval! 🏆
 
 ## 🏆 Badges
+## 🎊 Congratulations @YH-maneeshaharshani!
+
+Your **API Learning 101** task submission has been **approved** by @nisalgunawardhana!
+
+### 🏆 Achievement Unlocked!
+
+You have successfully completed the API Learning 101 challenge and earned your badges:
+
+- ✅ **Submission Approved Badge**
+- 🎓 **API Learning 101 Completion Badge**
+
+![Completion Badge](https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png)
+
+### 📊 Your Submission Summary
+
+- **All 5 API Tests**: ✅ Completed
+- **Screenshots**: ✅ Verified
+- **Status Codes**: ✅ Correct
+- **Documentation**: ✅ Proper
+
+### 🎁 Want to Win Swags?
+
+**Increase your chances to win:**
+1. 📱 Share your achievement on social media (Twitter/LinkedIn/Facebook)
+2. 🏷️ Tag **@NisalGunawardhana** and **@Postman**
+3. 🔖 Use hashtag **#APILearning101**
+4. 🎉 Winners will be randomly selected for exclusive t-shirts and Postman swags!
+
+### 🎉 What You've Accomplished
+
+You've demonstrated proficiency in:
+- ✓ RESTful API testing with Postman
+- ✓ Understanding HTTP methods (GET, POST, PUT, DELETE)
+- ✓ Validating API responses and status codes
+- ✓ Working with JSON data
+- ✓ API documentation and best practices
+
+### 🚀 Next Steps
+
+- Share your achievement on social media with #APILearning101 and tag @NisalGunawardhana & @Postman
+- Continue exploring advanced API concepts
+- Check out our other learning resources
+- Help others by reviewing their submissions
+
+### 🎁 T-Shirt & Swag Distribution
+
+Winners will be **randomly selected** from all approved submissions!
+
+- T-shirts will be sent to randomly selected winners
+- Your t-shirt size has been recorded
+- Share on social media tagging @NisalGunawardhana and @Postman for bonus chances!
+- Winners will be contacted separately for shipping details
+
+**Tip:** The more engagement your post gets, the better your chances! 🎯
+
+---
+
+**Thank you for completing API Learning 101!** Keep building amazing things! 🚀
 
 Contributors receive badges based on their submissions:
 - 🟡 Pending Review
